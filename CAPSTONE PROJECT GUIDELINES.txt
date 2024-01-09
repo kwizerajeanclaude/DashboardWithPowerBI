@@ -1,0 +1,16 @@
+1. Business Understanding
+ - understanding statement, 
+ - Bs Objective
+ - Problem statement
+ - Stakeholders
+2. Data Understanding 
+ - Importations and installations
+ - Load Datasets
+ - Data cleaning and merging merging datasets
+ - EDA analysis 
+3. Deriving Business Insights
+ - Answering the questions
+ - BI analysis - Create an Impressive Sales Dashboard
+
+Article - 
+PPT of the project.
